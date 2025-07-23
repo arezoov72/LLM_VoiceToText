@@ -1,0 +1,15 @@
+speech_recognition – for voice input
+
+openai or transformers – for LLM chatbot
+
+pyttsx3 or gTTS – for voice output (optional)
+
+pyaudio – microphone input
+
+🧠 Online: OpenAI’s GPT (ChatGPT)
+
+🧠 Offline: Local LLM like DistilGPT2
+
+🎤 Speech-to-text using speech_recognition
+
+🗣 Text-to-speech using pyttsx3 (works offline)
